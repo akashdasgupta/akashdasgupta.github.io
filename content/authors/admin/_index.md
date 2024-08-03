@@ -52,7 +52,7 @@ education:
   - area: PhD Perovskite solar cell characterisation and modelling 
     institution: University of Oxford
     date_start: 2020-10-01
-    date_end: 2024-11-31
+    date_end: ''
     summary: |
       Thesis on characterisation and modelling of perovskite solar cells, including novel spatially resolved methods and tandem max effeciency projections
     button:
