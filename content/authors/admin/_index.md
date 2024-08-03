@@ -61,7 +61,7 @@ education:
   - area: MSci in Physics with Industrial Experience
     institution: University of Bristol
     date_start: 2016-10-01
-    date_end: 2020-06-31
+    date_end: 2020-06-01
     summary: |
       1st class honours (72% overall grade)
 
