@@ -29,14 +29,14 @@ profiles:
   - icon: at-symbol
     url: 'mailto:akashdg09@gmail.com'
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/akashdasgupta
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/akash-dasgupta-25135723b/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Tm1bZzYAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-7942-293X
+  - icon: brands/github
+    url: https://github.com/akashdasgupta
   - icon: brands/instagram
     url: https://www.instagram.com/akashdg09/
 
