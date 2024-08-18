@@ -7,6 +7,7 @@
 title: Akash Dasgupta
 # Website URL
 baseURL: 'https://akashdasgupta.com/'
+favicon: "favicon.ico"
 
 ############################
 ## LANGUAGE
