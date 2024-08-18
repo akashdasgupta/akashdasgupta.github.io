@@ -2,9 +2,6 @@
 # Display name
 title: Akash Dasgupta
 
-# Name pronunciation (optional)
-name_pronunciation: Akash Dasgupta
-
 # Full name (for SEO)
 first_name: Akash
 last_name: Dasgupta
