@@ -19,22 +19,12 @@ authors:
 - M. Saiful Islam
 - Henry J. Snaith
 author_notes:
-- " "
+- ""
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
-- " "
-- " "
-- " "
-- " "
-- " "
-- " "
-- " "
-- " "
-- " "
-- " "
 date: "2024-05-01T00:00:00Z"
 doi: ""
 
@@ -56,13 +46,17 @@ abstract: "The efficiency and longevity of metal-halide perovskite solar cells a
 summary: "Amino-silane passivation improves efficiency and longevity in perovskite solar cells, enabling 95% efficiency retention after 1500 hours under harsh conditions."
 
 tags:
-- Source Themes
+- Perovskite Solar Cells
+- Passivation
+- Photovoltage Loss
+- Science
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://www.science.org/doi/epdf/10.1126/science.ado2302"
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -92,13 +86,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
