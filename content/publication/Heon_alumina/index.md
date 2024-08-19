@@ -1,29 +1,24 @@
 ---
-title: "Visualizing Macroscopic Inhomogeneities in Perovskite Solar Cells"
+title: "Alumina Nanoparticle Interfacial Buffer Layer for Low‐bandgap Lead‐tin Perovskite Solar Cells"
 authors:
-- admin
-- Suhas Mahesh
-- Pietro Caprioglio
-- Yen-Hung Lin
-- Karl-Augustin Zaininger
-- Robert D. J. Oliver
-- Philippe Holzhey
-- Suer Zhou
-- Melissa M. McCarthy
-- Joel A. Smith
-- Maximilian Frenzel
-- M. Greyson Christoforo
+- Heon Jin
+- Michael D. Farrar
 - James M. Ball
-- Bernard Wenger
+- admin
+- Pietro Caprioglio
+- Sudarshan Narayanan
+- Robert D. J. Oliver
+- Florine M. Rombach
+- Benjamin W. J. Putland
+- Michael B. Johnston
 - Henry J. Snaith
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2022-07-01T00:00:00Z"
-doi: "10.1021/acsenergylett.2c01094"
+- ""
+date: "2023-05-01T00:00:00Z"
+doi: "10.1002/adfm.202303012"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-07-01T00:00:00Z"
+publishDate: "2023-05-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -31,28 +26,28 @@ publishDate: "2022-07-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ACS Energy Letters, 7*(7)"
+publication: "*Advanced Functional Materials*"
 publication_short: ""
 
-abstract: "Despite the incredible progress made, the highest efficiency perovskite solar cells are still restricted to small areas (<1 cm²). In large part, this stems from a poor understanding of the widespread spatial heterogeneity in devices. We overcome these limitations by using luminescence imaging to reveal large, millimeter-scale heterogeneities in the inferred electronic properties. We determine spatially resolved maps of 'charge collection quality', measured using the ratio of photoluminescence intensity at open and short circuit. These methods are applied to quantify inhomogeneities introduced by a wide range of transport layers, ranking them by suitability for upscaling. Our findings suggest that top-contacting transport layers are the dominant source of heterogeneity."
+abstract: "Mixed lead-tin (Pb:Sn) halide perovskites are promising absorbers with narrow-bandgaps (1.25–1.4 eV) suitable for high-efficiency all-perovskite tandem solar cells. However, solution processing of optimally thick Pb:Sn perovskite films is notoriously difficult compared to neat-Pb counterparts. This is partly due to the rapid crystallization of Sn-based perovskites, resulting in rougher films. These rough films complicate subsequent layers' conformal coating, leading to contact between the absorber and the top metal electrode in completed devices, reducing VOC, fill factor, efficiency, and stability. This study employs alumina nanoparticles distributed on the surface of rough Pb:Sn perovskite films as an interfacial buffer layer. The approach improves the conformality of the electron-transport layer and boosts the efficiency and stability of the devices."
 
 # Summary. An optional shortened abstract.
-summary: "Luminescence imaging reveals large inhomogeneities in perovskite solar cells, providing insights into the development of efficient, large-area modules."
+summary: "Alumina nanoparticles improve the efficiency and stability of lead-tin perovskite solar cells by serving as an interfacial buffer layer."
 
 tags:
 - Perovskite Solar Cells
-- Inhomogeneities
-- Luminescence Imaging
-- Energy Letters
+- Lead-Tin Perovskites
+- Nanoparticles
+- Advanced Functional Materials
 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://pubs.acs.org/doi/epdf/10.1021/acsenergylett.2c01094"
+url_pdf: "https://onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202303012"
 url_code: ''
-url_dataset: 'https://ora.ox.ac.uk/objects/uuid:10276ad9-2131-4277-aa3d-ce9dddecbe2a'
+url_dataset: 'https://ora.ox.ac.uk/objects/uuid:6b23d1d7-fd17-493b-8c2f-64bf05d60c50'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -64,7 +59,7 @@ url_video: ''
 image:
   caption: ''
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
