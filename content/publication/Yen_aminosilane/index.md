@@ -51,7 +51,7 @@ tags:
 - Photovoltage Loss
 - Science
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
