@@ -1,24 +1,31 @@
 ---
-title: "Alumina Nanoparticle Interfacial Buffer Layer for Low‐bandgap Lead‐tin Perovskite Solar Cells"
+title: "The Role of the Organic Cation in Developing Efficient Green Perovskite LEDs Based on quasi‐2D Perovskite Heterostructures"
 authors:
-- Heon Jin
-- Michael D. Farrar
-- James M. Ball
-- admin
-- Pietro Caprioglio
-- Sudarshan Narayanan
+- Alexandra J. Ramadan
+- Woo Hyeon Jeong
 - Robert D. J. Oliver
-- Florine M. Rombach
-- Benjamin W. J. Putland
+- Junke Jiang
+- admin
+- Zhongcheng Yuan
+- Joel Smith
+- Jae Eun Lee
+- Silvia G. Motti
+- Olivia Gough
+- Zhenlong Li
+- Laura M. Herz
 - Michael B. Johnston
+- Hyosung Choi
+- Jacky Even
+- Claudine Katan
+- Bo Ram Lee
 - Henry J. Snaith
 author_notes:
 - ""
-date: "2023-05-01T00:00:00Z"
-doi: "10.1002/adfm.202303012"
+date: "2024-04-01T00:00:00Z"
+doi: "10.1002/adfm.202309653"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-01T00:00:00Z"
+publishDate: "2024-04-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,15 +36,16 @@ publication_types: ["article-journal"]
 publication: "*Advanced Functional Materials*"
 publication_short: ""
 
-abstract: "Mixed lead-tin (Pb:Sn) halide perovskites are promising absorbers with narrow-bandgaps (1.25–1.4 eV) suitable for high-efficiency all-perovskite tandem solar cells. However, solution processing of optimally thick Pb:Sn perovskite films is notoriously difficult compared to neat-Pb counterparts. This is partly due to the rapid crystallization of Sn-based perovskites, resulting in rougher films. These rough films complicate subsequent layers' conformal coating, leading to contact between the absorber and the top metal electrode in completed devices, reducing VOC, fill factor, efficiency, and stability. This study employs alumina nanoparticles distributed on the surface of rough Pb:Sn perovskite films as an interfacial buffer layer. The approach improves the conformality of the electron-transport layer and boosts the efficiency and stability of the devices."
+abstract: "Two dimensional/three-dimensional (2D/3D) metal halide perovskite heterostructures have gained significant attention in photovoltaic and LED applications. These heterostructures enhance device efficiency, yet their behavior remains partially understood. This study investigates the role of organic cations essential for forming 2D perovskite structures across various metal halide perovskite heterostructures. Efficient green perovskite LEDs are fabricated, revealing a strong correlation between cation content and performance. The study shows that crystalline 2D perovskite impedes electron injection, affecting device performance. Optimizing these heterostructures is critical for maximizing device efficiency, with future focus on enhancing charge-carrier injection into 2D perovskite structures."
 
 # Summary. An optional shortened abstract.
-summary: "Alumina nanoparticles improve the efficiency and stability of lead-tin perovskite solar cells by serving as an interfacial buffer layer."
+summary: "This study explores the role of organic cations in quasi-2D perovskite heterostructures and their impact on green LED performance, highlighting the need for optimized composition to achieve better efficiency."
 
 tags:
-- Perovskite Solar Cells
-- Lead-Tin Perovskites
-- Nanoparticles
+- Perovskite LEDs
+- Quasi-2D Heterostructures
+- Organic Cations
+- Optoelectronics
 - Advanced Functional Materials
 
 featured: false
@@ -45,9 +53,9 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202303012"
+url_pdf: "https://onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202309653"
 url_code: ''
-url_dataset: 'https://ora.ox.ac.uk/objects/uuid:6b23d1d7-fd17-493b-8c2f-64bf05d60c50'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''

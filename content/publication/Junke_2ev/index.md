@@ -1,26 +1,39 @@
 ---
-title: "Hydrogen Bond-Assisted Dual Passivation for Blue Perovskite Light-Emitting Diodes"
+title: "Halide Homogenization for Low Energy Loss in 2-eV-Bandgap Perovskites and Increased Efficiency in All-Perovskite Triple-Junction Solar Cells"
 authors:
-- Zhongkai Yu
-- Xinyu Shen
-- Xiangyang Fan
-- Young-Kwang Jung
-- Woo Hyeon Jeong
+- Junke Wang
+- Lewei Zeng
+- Dong Zhang
+- Aidan Maxwell
+- Hao Chen
+- Kunal Datta
+- Alessandro Caiazzo
+- Willemijn H. M. Remmerswaal
+- Nick R. M. Schipper
+- Zehua Chen
+- Kevin Ho
 - admin
-- Manuel Kober-Czerny
-- Pietro Caprioglio
-- Sung Heum Park
-- Hyosung Choi
+- Gunnar Kusch
+- Riccardo Ollearo
+- Laura Bellini
+- Shuaifeng Hu
+- Zaiwei Wang
+- Chongwen Li
+- Sam Teale
+- Luke Grater
+- Bin Chen
+- Martijn M. Wienk
+- Rachel A. Oliver
 - Henry J. Snaith
-- Samuel D. Stranks
-- Bo Ram Lee
+- René A. J. Janssen
+- Edward H. Sargent
 author_notes:
 - ""
-date: "2023-09-01T00:00:00Z"
-doi: "10.1021/acsenergylett.3c01323"
+date: "2023-11-01T00:00:00Z"
+doi: "10.1038/s41560-023-01406-5"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-09-01T00:00:00Z"
+publishDate: "2023-11-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,27 +41,27 @@ publishDate: "2023-09-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ACS Energy Letters*"
+publication: "*Nature Energy*"
 publication_short: ""
 
-abstract: "Despite progress in developing green, red, and near-infrared perovskite light-emitting diodes (PeLEDs), blue PeLEDs have lagged behind due to defects and poor carrier injection in solution-processed perovskite films. This study introduces dual-passivation additive diphenylphosphinamide (DPPA) into perovskite films, shown through density functional theory calculations and experiments to be an effective passivator. The phosphine oxide group coordinates with unsaturated lead ions, while the amino group forms hydrogen bonds with halide ions, reducing defect density and ion migration. DPPA-modified blue quasi-two-dimensional PeLEDs reached an external quantum efficiency of 12.31% at 486 nm, with operational lifetime extended by 32%."
+abstract: " Monolithic all-perovskite triple-junction solar cells hold promise for surpassing the efficiency of state-of-the-art double-junction tandems and exceeding the detailed-balance limit for single junctions. However, performance remains constrained by large deficits in open-circuit voltage and underperformance in both short-circuit current density and fill factor in wide-bandgap perovskite subcells. This study identifies halide heterogeneity as a key factor in interfacial non-radiative recombination and collection efficiency losses in Br-rich perovskites. Introducing propane-1,3-diammonium iodide during fabrication improves halide homogenization, enhancing stability and achieving a record open-circuit voltage of 1.44 V."
 
 # Summary. An optional shortened abstract.
-summary: "Study on dual-passivation using DPPA in blue perovskite light-emitting diodes, enhancing efficiency and extending operational lifetime."
+summary: "This study on all-perovskite triple-junction solar cells highlights halide homogenization's role in improving efficiency and achieving a record open-circuit voltage."
 
 tags:
-- Perovskite Light-Emitting Diodes
-- Dual Passivation
-- Blue PeLEDs
-- Hydrogen Bonding
-- ACS Energy Letters
+- Perovskite Solar Cells
+- Halide Homogenization
+- Triple-Junction Cells
+- Solar Energy
+- Nature Energy
 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://pubs.acs.org/doi/epdf/10.1021/acsenergylett.3c01323"
+url_pdf: "https://www.nature.com/articles/s41560-023-01406-5.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
