@@ -45,7 +45,7 @@ tags:
 - Luminescence Imaging
 - Energy Letters
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
