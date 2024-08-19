@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications (placeholder)
+      title: Featured Publications
       filters:
         folders:
           - publication
