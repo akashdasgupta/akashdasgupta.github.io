@@ -1,7 +1,7 @@
 ---
 title: "Visualizing Macroscopic Inhomogeneities in Perovskite Solar Cells"
 authors:
-- Akash Dasgupta
+- admin
 - Suhas Mahesh
 - Pietro Caprioglio
 - Yen-Hung Lin
