@@ -1,16 +1,35 @@
 ---
-title: "An example journal article"
+title: "Bandgap-Universal Passivation Enables Stable Perovskite Solar Cells with Low Photovoltage Loss"
 authors:
-- admin
-- Robert Ford
+- Yen-Hung Lin
+- Vikram
+- Fengning Yang
+- Xue-Li Cao
+- Akash Dasgupta
+- Robert D. J. Oliver
+- Aleksander M. Ulatowski
+- Melissa M. McCarthy
+- Xinyi Shen
+- Qimu Yuan
+- M. Greyson Christoforo
+- Fion Sze Yan Yeung
+- Michael B. Johnston
+- Nakita K. Noel
+- Laura M. Herz
+- M. Saiful Islam
+- Henry J. Snaith
 author_notes:
+- ""
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+date: "2024-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-05-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +37,27 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Science, 384*(6697)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "The efficiency and longevity of metal-halide perovskite solar cells are typically dictated by nonradiative defect-mediated charge recombination. In this work, we demonstrate a vapor-based amino-silane passivation that reduces photovoltage deficits to around 100 millivolts (>90% of the thermodynamic limit) in perovskite solar cells of bandgaps between 1.6 and 1.8 electron volts, which is crucial for tandem applications. Amino-silanes that incorporate primary and secondary amines yield up to a 60-fold increase in photoluminescence quantum yield and preserve long-range conduction. Amino-silane-treated devices retained 95% power conversion efficiency for more than 1500 hours under full-spectrum sunlight at 85°C and open-circuit conditions in ambient air with a relative humidity of 50 to 60%."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "Amino-silane passivation improves efficiency and longevity in perovskite solar cells, enabling 95% efficiency retention after 1500 hours under harsh conditions."
 
 tags:
-- Source Themes
+- Perovskite Solar Cells
+- Passivation
+- Photovoltage Loss
+- Science
+
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: ""
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +68,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
