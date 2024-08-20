@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Material Science Resercher
+role: Material Science Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -46,38 +46,99 @@ interests:
   - Modelling and simulations
 
 education:
-  - area: PhD Perovskite solar cell characterisation and modelling 
+  - area: PhD in Condensed Matter Physics (Perovskite Solar Cell Characterisation and Modelling)
     institution: University of Oxford
     date_start: 2020-10-01
     date_end: ''
     summary: |
-      Thesis on characterisation and modelling of perovskite solar cells, including novel spatially resolved methods and tandem max effeciency projections
+      Thesis on characterisation and modelling of perovskite solar cells, including novel spatially resolved methods and tandem max efficiency projections. 
+      Key achievements include:
+      - Pioneered a new method for spatially resolved current measurement in perovskite solar cells
+      - Developed systems for frequency-dependent JV and intensity-dependent PLQE measurements
+      - Created a framework to reconcile the effect of mobile ions in perovskites on their luminescence
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+  
   - area: MSci in Physics with Industrial Experience
     institution: University of Bristol
     date_start: 2016-10-01
     date_end: 2020-06-01
     summary: |
       1st class honours (72% overall grade)
+      
+      Key courses included:
+      - Semiconductor Physics
+      - Theoretical Particle Physics
+      - Advanced Computing
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Reserch placement student
-    company_name: Science and Technology Facilities council (STFC, part of UKRI)
+  - position: Research Student in Plasma Diagnostics Group
+    company_name: Science and Technology Facilities Council (STFC, part of UKRI)
     company_url: ''
-    company_logo: 'stfc.png'
+    company_logo: '/logos/stfc.png'
     date_start: 2018-06-01
     date_end: 2019-06-01
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |
+      Responsibilities included:
+      - Characterization and comparison of sensors such as Silicon Photomultipliers and scientific cameras
+      - Modifying and refining data acquisition workflows, including developing analysis scripts in Python
+      - Contributing to high-profile experiments using Vulcan and Gemini lasers, advising on sensor deployment
+    button:
+      text: 'Read More'
+      url: 'https://example.com'
+      
+  - position: Senior Lab Instructor (Optics, Computing)
+    company_name: University of Oxford
+    company_url: 'https://www.physics.ox.ac.uk/'
+    company_logo: '/logos/oxford.png'
+    date_start: 2022-11-01
+    date_end: ''
+    summary: |
+      Led lab sessions teaching students experimental techniques in optics and computing. 
+      Responsibilities included:
+      - Improving experiments and training new teaching assistants
+      - Providing hands-on support and guidance to students during lab sessions
+
+  - position: Assistant Lab Instructor (Optics, Computing)
+    company_name: University of Oxford
+    company_url: 'https://www.physics.ox.ac.uk/'
+    company_logo: '/logos/oxford.png'
+    date_start: 2020-11-01
+    date_end: 2022-10-31
+    summary: |
+      Supported lab sessions in optics and computing, assisting students with experiments and solving problems during the sessions.
+      
+  - position: Mentor under 'Levelling up' Programme
+    company_name: University of Oxford
+    company_url: 'https://www.physics.ox.ac.uk/'
+    company_logo: '/logos/oxford.png'
+    date_start: 2021-09-01
+    date_end: 2021-07-01
+    summary: |
+      Mentored disadvantaged A-Level students interested in physics, covering topics such as university applications, physics careers, and admission exams.
+  
+  - position: Public Speaker and Outreach Contributor
+    company_name: Various Institutions
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |
+      Engaged in public outreach activities to promote physics and solar cell research, including:
+      - Public talks at events like Café Scientifique and 'Lab to Life' scheme
+      - Leading science days for primary school students, encouraging interest in science through hands-on experiments
+      - Running workshops on solar cells for secondary school students during school visits
+    button:
+      text: 'Explore Outreach'
+      url: 'https://example.com'
+      
+  - position: Campus Ambassador
+    company_name: Institute of Physics (IOP)
+    company_url: 'https://www.iop.org/'
+    company_logo: '/logos/iop.png'
+    date_start: 2017-09-01
+    date_end: 2018-06-01
+    summary: |
+      Promoted the Institute of Physics at the University of Bristol, organizing events, careers talks, and liaising with students and stakeholders.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
