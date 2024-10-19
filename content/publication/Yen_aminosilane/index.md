@@ -26,7 +26,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2024-05-01T00:00:00Z"
-doi: ""
+doi: "10.1126/science.ado2302"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-05-01T00:00:00Z"
@@ -56,7 +56,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
+url_pdf: "https://www.science.org/doi/reader/10.1126/science.ado2302"
 url_code: ''
 url_dataset: ''
 url_poster: ''
