@@ -35,12 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research focuses on the measurement and analysis of perovskite solar cells, with a particular emphasis on using advanced spectroscopy techniques to gain insights into device performance and degradation. I specialize in developing innovative approaches for data acquisition, enabling a deeper understanding of the fundamental processes that govern the behavior of perovskite materials.
-
-        Using my strong expertise in spectroscopy, optical modelling and drift-diffusion simulations, and bayesian inference, I work to quantify key parameters such as charge collection efficiency, material heterogeneity, and recombination processes. I design and build custom measurement systems to acquire high-quality data, and leverage my coding skills to run simulations that complement experimental results.
-
-        By combining detailed experimental analysis with modeling, my goal is to provide a clearer understanding of the limits and potential of perovskite solar cells, offering valuable insights that can guide future research and development in the field.
-    design:
+       test
       columns: '1'
   - block: collection
     id: papers
