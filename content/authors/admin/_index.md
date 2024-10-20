@@ -56,9 +56,9 @@ education:
       - Pioneered a new method for spatially resolved current measurement in perovskite solar cells
       - Developed systems for frequency-dependent JV and intensity-dependent PLQE measurements
       - Created a framework to reconcile the effect of mobile ions in perovskites on their luminescence
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   
   - area: MSci in Physics with Industrial Experience
     institution: University of Bristol
@@ -73,6 +73,27 @@ education:
       - Advanced Computing
 
 work:
+  - position: Senior Lab Instructor (Optics, Computing)
+    company_name: University of Oxford
+    company_url: 'https://www.physics.ox.ac.uk/'
+    company_logo: '/logos/oxford.png'
+    date_start: 2020-11-01
+    date_end: ''
+    summary: |
+      Led lab sessions teaching students experimental techniques in optics and computing. 
+      Responsibilities included:
+      - Improving experiments and training new teaching assistants
+      - Providing hands-on support and guidance to students during lab sessions
+
+  - position: Mentor under 'Levelling up' Programme
+    company_name: University of Oxford
+    company_url: 'https://www.physics.ox.ac.uk/'
+    company_logo: '/logos/oxford.png'
+    date_start: 2021-09-01
+    date_end: 2021-07-01
+    summary: |
+      Mentored disadvantaged A-Level students interested in physics, covering topics such as university applications, physics careers, and admission exams.
+
   - position: Research Student in Plasma Diagnostics Group
     company_name: Science and Technology Facilities Council (STFC, part of UKRI)
     company_url: ''
@@ -84,52 +105,6 @@ work:
       - Characterization and comparison of sensors such as Silicon Photomultipliers and scientific cameras
       - Modifying and refining data acquisition workflows, including developing analysis scripts in Python
       - Contributing to high-profile experiments using Vulcan and Gemini lasers, advising on sensor deployment
-    button:
-      text: 'Read More'
-      url: 'https://example.com'
-      
-  - position: Senior Lab Instructor (Optics, Computing)
-    company_name: University of Oxford
-    company_url: 'https://www.physics.ox.ac.uk/'
-    company_logo: '/logos/oxford.png'
-    date_start: 2022-11-01
-    date_end: ''
-    summary: |
-      Led lab sessions teaching students experimental techniques in optics and computing. 
-      Responsibilities included:
-      - Improving experiments and training new teaching assistants
-      - Providing hands-on support and guidance to students during lab sessions
-
-  - position: Assistant Lab Instructor (Optics, Computing)
-    company_name: University of Oxford
-    company_url: 'https://www.physics.ox.ac.uk/'
-    company_logo: '/logos/oxford.png'
-    date_start: 2020-11-01
-    date_end: 2022-10-31
-    summary: |
-      Supported lab sessions in optics and computing, assisting students with experiments and solving problems during the sessions.
-      
-  - position: Mentor under 'Levelling up' Programme
-    company_name: University of Oxford
-    company_url: 'https://www.physics.ox.ac.uk/'
-    company_logo: '/logos/oxford.png'
-    date_start: 2021-09-01
-    date_end: 2021-07-01
-    summary: |
-      Mentored disadvantaged A-Level students interested in physics, covering topics such as university applications, physics careers, and admission exams.
-  
-  - position: Public Speaker and Outreach Contributor
-    company_name: Various Institutions
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |
-      Engaged in public outreach activities to promote physics and solar cell research, including:
-      - Public talks at events like Café Scientifique and 'Lab to Life' scheme
-      - Leading science days for primary school students, encouraging interest in science through hands-on experiments
-      - Running workshops on solar cells for secondary school students during school visits
-    button:
-      text: 'Explore Outreach'
-      url: 'https://example.com'
       
   - position: Campus Ambassador
     company_name: Institute of Physics (IOP)
@@ -203,4 +178,4 @@ awards:
 
 ## About Me
 
-I'm a researcher specializing in advanced characterization and metrology, with a focus on solving complex problems across various fields, from renewable energy to emerging technologies. Originally from India, I moved to the UK at a young age, where I earnt a Master's degree in Physics from the University of Bristol and pursue a PhD at Oxford. My work bridges the gap between designing innovative measurement systems, data analysis, and computational modeling to drive new technologies towards real-world applications. With a strong foundation in physics and hands-on experience in developing cutting-edge tools, I am dedicated to advancing technology through precision and innovation. I’m passionate about making science accessible through outreach and mentoring, especially for students from disadvantaged backgrounds, inspired by my own journey.
+Hi! I’m a researcher passionate about tackeling tough challenges in everything from renewable energy to cutting-edge tech. I’m especially interested in designing measurement systems and analysis technoques that allow us to aquire and process data in ways we couldn't before—finding new ways to pull more insights about the physical world. Originally from India, I grew up in the UK, studied Physics at Bristol, and have nearly compleated my PhD at Oxford. I’m also interested in making science more accessible, especially for students from disadvantaged backgrounds—I know how much that support can matter! When I’m not in the lab, you can find find me sketching with pencils, pens, or watercolours (still very much an amateur!). 

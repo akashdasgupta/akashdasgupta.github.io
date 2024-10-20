@@ -36,7 +36,7 @@ tags:
 - Solar Cells
 - Research Square
 
-featured: true
+featured: false
 
 url_pdf: "https://www.researchsquare.com/article/rs-4502930/v1.pdf?c=1719878646000"
 url_code: ''
