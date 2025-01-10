@@ -164,7 +164,7 @@ languages:
 awards:
   - title: Penrose Scholarship
     date: '2020-10-01'
-    icon: /logos/oxford_svg.svg
+    icon: /logos/oxford.png
     summary: |
       I was awarded the Penrose scholarship to study my PhD at the University of Oxford
   #   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
